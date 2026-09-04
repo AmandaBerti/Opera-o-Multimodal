@@ -9,3 +9,5 @@ Suíça, 99,49%
 =D2/SOMA($D$2:$D$7)
 
 [operador_transporte_multimodal Amanda Berti.xlsx](https://github.com/user-attachments/files/31814253/operador_transporte_multimodal.Amanda.Berti.xlsx)
+
+<img width="487" height="538" alt="image" src="https://github.com/user-attachments/assets/9e1bf4b3-3a69-4fb5-8f7e-c05129d16fd6" />
